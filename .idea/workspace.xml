@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fbe84b9-35a1-4b79-a982-ede6048d607d" name="Changes" comment="" />
+    <list default="true" id="8fbe84b9-35a1-4b79-a982-ede6048d607d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/rango/tests_chapter3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772106367296</updated>
       <workItem from="1772106368315" duration="2274000" />
-      <workItem from="1772109049750" duration="62000" />
+      <workItem from="1772109049750" duration="397000" />
     </task>
     <servers />
   </component>
