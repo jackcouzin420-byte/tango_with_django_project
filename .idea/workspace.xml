@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fbe84b9-35a1-4b79-a982-ede6048d607d" name="Changes" comment="" />
+    <list default="true" id="8fbe84b9-35a1-4b79-a982-ede6048d607d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/media/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rango/test_chapter4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/rango/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -47,7 +53,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/jack/Documents/UNI/RANGO/tango_with_django_project",
+    "last_opened_file_path": "/Users/jack/Documents/UNI/RANGO/tango_with_django_project/media",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +64,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -105,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772106367296</updated>
       <workItem from="1772106368315" duration="2274000" />
-      <workItem from="1772109049750" duration="1736000" />
+      <workItem from="1772109049750" duration="6355000" />
     </task>
     <servers />
   </component>
