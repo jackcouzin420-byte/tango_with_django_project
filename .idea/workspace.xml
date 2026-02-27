@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fbe84b9-35a1-4b79-a982-ede6048d607d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/media/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rango/test_chapter4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/rango/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772106367296</updated>
       <workItem from="1772106368315" duration="2274000" />
-      <workItem from="1772109049750" duration="6355000" />
+      <workItem from="1772109049750" duration="7352000" />
     </task>
     <servers />
   </component>
