@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fbe84b9-35a1-4b79-a982-ede6048d607d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rango/tests_chapter7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/rango/add_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rango/templatetags/__inti__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rango/templatetags/rango_template_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rango/tests_chapter8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/rango/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/rango/categories.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rango/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/rango/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/rango/add_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/add_category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/rango/add_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/add_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/rango/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/rango/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rango/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +128,7 @@
       <workItem from="1772106368315" duration="2274000" />
       <workItem from="1772109049750" duration="7352000" />
       <workItem from="1772187230016" duration="11958000" />
-      <workItem from="1772395305682" duration="3747000" />
+      <workItem from="1772395305682" duration="7751000" />
     </task>
     <servers />
   </component>
